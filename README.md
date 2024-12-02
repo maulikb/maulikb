@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! I'm Maulik Beladiya 👋
 
-<!--
-**maulikb/maulikb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software developer with expertise in web technologies and cloud computing. Currently expanding my skills in full-stack development and cloud solutions.
 
-Here are some ideas to get you started:
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maulikbeladiya/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/maulikb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Languages:** JavaScript, Python, TypeScript
+- **Frontend:** React, Vue.js, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Cloud & DevOps:** AWS, Docker, Kubernetes
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, Webpack, Babel
+
+## 🌟 Featured Projects
+
+
+## 📈 GitHub Stats
+![Maulik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maulikb&show_icons=true&theme=radical)
+
+## 🏆 Achievements
+- Completed [Relevant Certification]
+- Contributed to [Open Source Project]
+- [Any hackathon or competition achievements]
+
+## 📫 Let's Connect
+- **Email:** [Your Professional Email]
+- **Portfolio:** [Link to Personal Website/Portfolio]
+
+## 🔍 Currently Learning
+- Advanced cloud computing techniques
+- [Specific technology or skill you're focusing on]
